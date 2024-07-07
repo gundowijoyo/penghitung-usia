@@ -11,7 +11,7 @@ cd penghitung-usia
 
 ## Jalanlan Program
  ```bash
-ruby main.rb
+ruby usia.rb
  ```
 
 ## Contoh Output
